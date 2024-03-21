@@ -8,3 +8,4 @@ Designed with user experience in mind, the application provides visual and funct
 
 ***
 
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
